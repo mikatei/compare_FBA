@@ -6,5 +6,7 @@ Exploring a way to best compare two FBA solutions
 1. pandas
 1. numpy
 
-## How to run 
-> python compare_fba.py -m $FILENAME1 -n $FILENAME2 -o $OUTFILE
+## How to run
+```bash
+python compare_fba.py -m $FILENAME1 -n $FILENAME2 -o $OUTFILE
+```bash
