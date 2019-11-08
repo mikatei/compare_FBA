@@ -9,4 +9,4 @@ Exploring a way to best compare two FBA solutions
 ## How to run
 ```bash
 python compare_fba.py -m $FILENAME1 -n $FILENAME2 -o $OUTFILE
-```bash
+bash```
